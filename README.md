@@ -4,3 +4,4 @@
 # Wait for the client to connect to your machine.
 # For file transfer type -- grab*file_name.extension
                             Ex - grab*abc.txt
+# After the the transfer is complete change the extension of file accordingly.
