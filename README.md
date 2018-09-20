@@ -1,4 +1,4 @@
-# DataExfilitration
+# DataExfiltration
 # Run the server script with the host ip.
 # Enter the host ip in client side script.
 # Wait for the client to connect to your machine.
